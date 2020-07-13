@@ -1,0 +1,16 @@
+body{
+    margin: 0px; 
+    padding: 0px; 
+}
+img{ 
+    width: 25%;
+} 
+/* 
+.ImagenFiordo{ 
+    width: 200px;
+} 
+*/ 
+.logoinsta{ 
+    width: 50px; 
+    float: left;
+}
