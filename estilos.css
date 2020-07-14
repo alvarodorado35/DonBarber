@@ -5,12 +5,17 @@ body{
 img{ 
     width: 25%;
 } 
-/* 
-.ImagenFiordo{ 
-    width: 200px;
+nav{ 
+    background-color: goldenrod;
 } 
-*/ 
 .logoinsta{ 
     width: 50px; 
     float: left;
+} 
+.letra_insta{ 
+    color: dodgerblue;
+} 
+.LogoPelu{ 
+    float: left; 
+    width: 100px;
 }
