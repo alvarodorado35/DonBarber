@@ -1,0 +1,12 @@
+.imagenproducto{ 
+    width: 50%;
+} 
+body{ 
+    background-color: rgb(243, 231, 231);
+} 
+.d-flex{ 
+    width: 40%;
+} 
+.textoproducto{ 
+     text-right;
+}
