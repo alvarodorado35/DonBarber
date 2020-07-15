@@ -1,12 +1,23 @@
 .imagenproducto{ 
-    width: 50%;
+    width: 75%; 
 } 
+.imagenproductopequeño{ 
+    width: 25%; 
+    float: right;   
+}
 body{ 
-    background-color: rgb(243, 231, 231);
+    background-color: rgb(243, 231, 231); 
+    
 } 
 .d-flex{ 
     width: 40%;
 } 
 .textoproducto{ 
-     text-right;
+    display: block;  
+    margin-right: 25px;
+    float: right;
+    text-align: right ; 
+} 
+.textoimagen{ 
+    margin-right: 55px;
 }
